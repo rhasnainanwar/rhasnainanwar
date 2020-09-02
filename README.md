@@ -1,5 +1,5 @@
-## Hi there, this is Hasnain
-🤓 I’m currently learning everything
+## Hi there, this is Hasnain!
+I’m currently learning everything 🤓
 
 ### Languages and Tools:
 
