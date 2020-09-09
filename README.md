@@ -32,7 +32,7 @@ I’m currently learning everything 🤓
 
 ---
 
-![Hasnain's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasnainanwar&count_private=true)
+![Hasnain's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasnainanwar&count_private=true&hide=jupyter)
 ![Hasnain's github stats](https://github-readme-stats.vercel.app/api?username=rhasnainanwar&count_private=true)
 
 
