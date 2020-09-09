@@ -33,7 +33,7 @@ I’m currently learning everything 🤓
 ---
 
 ![Hasnain's github stats](https://github-readme-stats.vercel.app/api?username=rhasnainanwar&count_private=true&show_icons=true)
-![Hasnain's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasnainanwar&count_private=true&hide=jupyter%20notebook&layout=compact)
+![Hasnain's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasnainanwar&count_private=true&hide=jupyter%20notebook)
 
 [twitter]: https://twitter.com/RHasnainAnwar
 [instagram]: https://instagram.com/nainsshutter
