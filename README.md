@@ -21,12 +21,7 @@ I’m currently learning everything 🤓
 
 <br />
 
-### Connect with me:
-
-[<img align="left" alt="rhasnainanwar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="rhasnainanwar | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="rhasnainanwar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="rhasnainanwar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### [Homepage](https://rhasnainanwar.github.io)
 
 <br />
 
@@ -34,8 +29,3 @@ I’m currently learning everything 🤓
 
 ![Hasnain's github stats](https://github-readme-stats.vercel.app/api?username=rhasnainanwar&count_private=true&show_icons=true)
 ![Hasnain's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasnainanwar&count_private=true&hide=jupyter%20notebook&layout=compact)
-
-[twitter]: https://twitter.com/RHasnainAnwar
-[instagram]: https://instagram.com/nainsshutter
-[linkedin]: https://linkedin.com/in/rajahasnain570
-[facebook]: https://www.facebook.com/raja.hasnain.570
